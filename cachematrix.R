@@ -5,6 +5,10 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
+for(i in x) {
+        testvector <- x[[i]]
+        }
+
 }
 
 
